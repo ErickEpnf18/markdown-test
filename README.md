@@ -79,7 +79,7 @@ print("hello world")
 <!--- direccion imagen ![baki the grappel](https://i.ytimg.com/vi/bTMMdMVFRWE/maxresdefault.jpg)
 --->
 
-![baki the grappel](baki_insanity.jpg 'baki insanity')
+![baki the grappel](./img/baki_insanity.jpg 'baki insanity')
 
 <!-- GITHUB MARKDOWN    -->
 
@@ -92,4 +92,5 @@ print("hello world")
 
 #### Motivation
 
-![Spartan](spartan-flecha.jpg 'Vencer')
+![Spartan](./img/spartan-flecha.jpg 'Vencer')
+![Lion unstoppable](./img/spartan-lion.jpg 'Unstoppable')
